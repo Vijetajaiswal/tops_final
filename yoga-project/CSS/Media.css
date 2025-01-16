@@ -1,0 +1,40 @@
+@media only screen and (max-width:1140px) {
+    
+}
+@media only screen and (max-width:992px) {
+    
+}
+@media only screen and (max-width:768px) {
+    .nav-list{
+        display: none;
+    }
+    #search{
+        display: none;
+    }
+    #bar{
+        display: block;
+    }
+    .header-main .header-h1{
+        font-size: 40px;
+    }
+}
+/*#sec1 {
+    background-size: cover;
+}
+#sec1 .row {
+    display: block;
+}
+#sec1 .sec1-data{
+    padding: 0px 0;
+}
+.sec2-data .row {
+    display: block;
+}
+.sec2-data .row .col{
+    width: 60%;
+    margin: 20px auto;
+}
+.sec2-main .sec2-p {
+    width: 90%;
+}*/
+
